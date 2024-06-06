@@ -23,6 +23,7 @@ body{
 		background-color: blue;
 		width: 250px;
 		height: 200px;
+		display: flex;
 	}
 	#article2{
 		background-color: red;
@@ -43,4 +44,5 @@ body{
 		height: 50vh;
 		margin-top: 21vh;
 	}
+
   
