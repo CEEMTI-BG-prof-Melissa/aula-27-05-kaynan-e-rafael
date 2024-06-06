@@ -10,17 +10,14 @@ img{
 width: 42px;
 height:42px;
 }
-          #blocos{
+          .blocos{
 		background-color: black;
-		width: 70%;
 		justify-content: center;
-		align-items: center;
 		height: 50vh;
-		margin-top: 21vh;
+		width: 70%;
 	}
 	#article1{
 		background-color: blue;
-		margin: 20px 0px 20px 20px;
 		width: 250px;
 		height: 200px;
 	}
