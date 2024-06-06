@@ -10,7 +10,7 @@ img{
 width: 42px;
 height:42px;
 }
-#Blocos{
+blocos{
 		width: 70%;
 		justify-content: center;
 		align-items: center;
@@ -18,25 +18,25 @@ height:42px;
 		background-color: black;
 		margin-top: 21vh;
 	}
-	#article1{
+	article1{
 		background-color: blue;
 		margin: 20px 0px 20px 20px;
 		width: 250px;
 		height: 200px;
 	}
-	#article2{
+	article2{
 		background-color: red;
 		margin: 20px 0px 20px 20px;
 		width: 250px;
 		height: 200px;
 	}
-	#aside1{
+	aside1{
 		background-color: #ff6b99;
 		width: 100px;
 		height: 100%;
 		margin-left: 150px;
 	}
-	#aside2{
+	aside2{
 		background-color: #00ff62;
 		margin-left: 10px;
 		width: 110px;
