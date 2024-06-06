@@ -11,11 +11,11 @@ width: 42px;
 height:42px;
 }
           #blocos{
+		background-color: black;
 		width: 70%;
 		justify-content: center;
 		align-items: center;
 		height: 50vh;
-		background-color: black;
 		margin-top: 21vh;
 	}
 	#article1{
