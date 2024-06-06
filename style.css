@@ -10,7 +10,10 @@ img{
 width: 42px;
 height:42px;
 }
-          .blocos{
+body{
+	background-color: black;
+}
+          #blocos{
 		background-color: black;
 		justify-content: center;
 		height: 50vh;
